@@ -1,5 +1,7 @@
 # HW01 — Team README & Project Kickoff
 
+KAROL DAYANNE RODRIGUEZ GONZALEZ: https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-karolrodriguezx-code/
+
 **Week 1 · DSAW · Universidad de La Sabana**
 # Activity Kickoff
 ## Problem statement: 
