@@ -1,51 +1,28 @@
 # HW01 — Team README & Project Kickoff
 
+KAROL DAYANNE RODRIGUEZ GONZALEZ: https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-karolrodriguezx-code/
+
 **Week 1 · DSAW · Universidad de La Sabana**
+# Activity Kickoff
+## Problem statement: 
+Since a long time ago, technologies and methodologies have become increasingly sophisticated in various sectors of human development. One such aspect has been education, however, according to the Organisation for Economic Co-operation and Development (2024), young students have lost interest and motivation in their studies and in conventional teachning methods. Moreover, it was demonstrated by UNESCO (2023) that students could be benefitted and learn more from dynamic methodologies that technology facilitates by making personalised and eye-catching study sessions.
 
-## Objective
+It is due to all of the points mentioned above that the project strives to offer a learning alternative to students. Specifically by offering a teaching tool for teachers to grade and allow their students to be entertained by gamified study activities. In order to develop this idea, a dynamic web page will be created that is accessible to students at every hour, as well as the web for the professors, set and built over a gaming archetype of play, care and simulation.
 
-Form your team, choose the problem you will solve this semester, and argue why it deserves a web application.
+## Why should you choose us?
+As an independant group, we are looking for a tool that will facilitate study sessions and the way of teaching students in an interactive manner that will motivate them to work autonomously. We will be differentiated from the others considering that our web will not only be an online learning tool to share assignments, rather an interactive tool to post assignments that also serves as a way to post various minigames with a focus on learning, incentivised by various accessories offered to customise your pet. Completing an assignment will be also a way to take care of your pet, so that if you do not complete your assignments, your pet will starve. This will also serve as a way for the teacher to grade their students.
 
-## Deliverables
+## Target audience
+The target audience for our application will be aimed at middle school students and their teachers.
 
-Create the following files at the root of the repository:
+## User stories
+1. As a teacher I want my students to learn and do their homework in a way that they got engaged by studying, thus being benefited by assuring some appropiaton of knowledge of my students.
+2. As a student I want to enjoy my study lessons whilst I'm learning, having the benefit of being motivated to study and not only for the grade.
+3. As a student, I want a way to increase my academic performance whitout having to use the classic metodologies of study, being benefited by getting better grades and academic score.
+4. As a teacher I want to guarantee my students adquire the capacity and skills of autonomous work and study, thus being benefited in the way that I can make sure my students will be more autonomous when it comes to independant study.
 
-### `README.md`
-Must include:
-- **Problem:** What problem are you solving? Be specific. Not "improve communication" but "Sabana students don't know when study rooms are available."
-- **Web app justification:** Why a web app and not a spreadsheet, a WhatsApp group, or an existing tool? Give at least 3 concrete reasons.
-- **Target users:** Who will use it? Be specific — not "anyone."
-- **User stories (minimum 3):** Format: `As a [user type], I want to [action] so that [benefit].`
-- **Team roles:** Who does what. Every team member must have a clear, named role.
-
-### `index.html`
-A simple landing page (no CSS yet) that introduces the project. GitHub Pages will publish it automatically.
-
-### `figma-link.txt`
-A text file containing the link to your Figma sketch (or a photo of a whiteboard). Any visual representation of how you imagine the app works.
-
-## Layer 2
-
-The sketch must show at least one screen with annotations that explain what each element does.
-
-## AI Log
-
-Did you use AI to write the user stories or the problem statement? If so, include in the README:
-- The exact prompt you used
-- What changed from what the AI generated
-- Why you made those changes
-
-## Deployment
-
-The repository must have GitHub Pages enabled. The URL must load correctly.
-
-## Autograding
-
-The pipeline will check:
-- ✅ Presence of `README.md`, `index.html`, `figma-link.txt`
-- ✅ `index.html` has content
-- ✅ `figma-link.txt` contains a URL
-- ✅ GitHub Pages URL responds with HTTP 200
-- ✅ README argues why a web app is the right solution (reviewed by Claude)
-
-> **Submission rule:** If it is not deployed and public, it cannot be graded.
+## Team roles
+Karol Dayanne Rodriguez: Lead Back-End Developer
+Nicolás Moreno: Project manager + QA tester
+Mariana González: UI/UX Designer + Front-End Developer
+Isaac Bonilla: Full-Stack Developer
